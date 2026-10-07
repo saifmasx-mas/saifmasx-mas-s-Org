@@ -1,0 +1,6 @@
+{
+  "name": "Nexus Digital Agency | Full-Stack Solutions & Next.js 14 Architecture",
+  "description": "Production-ready digital services agency platform featuring cutting-edge web & mobile systems, Supabase Auth & PostgreSQL schema, subscription dashboard, and bilingual Arabic/English experience.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
